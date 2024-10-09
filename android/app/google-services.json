@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913710783654",
+    "project_id": "millmate-73d81",
+    "storage_bucket": "millmate-73d81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913710783654:android:6afa61fdc626f425f6a867",
+        "android_client_info": {
+          "package_name": "com.example.millmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeiVeiCuQ8vj-WCi9ursfJ0qMRUHmWQWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
